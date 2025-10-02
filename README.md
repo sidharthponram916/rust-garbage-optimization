@@ -1,5 +1,5 @@
 # Rust Garbage Collection 
-This project is a test for managing stack and heap memory through Rust ownership roles, emulating garbage collection. 
+This project showcases different garbage collection methods built in Rust, including reference counting, mark-and-sweep, and stop-and-copy. It simulates how memory is allocated, referenced, and freed, providing a clear look at how these techniques manage stack and heap memory efficiently.
 
 ## Method Descriptions 
 
